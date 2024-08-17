@@ -1,2 +1,1 @@
-theme: jekyll-theme-minimal
-### My first node
+ ### My first node
